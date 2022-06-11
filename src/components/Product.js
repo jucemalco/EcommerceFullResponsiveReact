@@ -6,7 +6,6 @@ import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import CardActions from '@mui/material/CardActions';
 import Collapse from '@mui/material/Collapse';
-import Avatar from '@mui/material/Avatar';
 import IconButton, { IconButtonProps } from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import { red } from '@mui/material/colors';
@@ -93,6 +92,7 @@ export default function Product() {
             stirring often until thickened and fragrant, about 10 minutes. Add
             saffron broth and remaining 4 1/2 cups chicken broth; bring to a boil.
           </Typography>
+  
           <Typography paragraph>
             Add rice and stir very gently to distribute. Top with artichokes and
             peppers, and cook without stirring, until most of the liquid is absorbed,
