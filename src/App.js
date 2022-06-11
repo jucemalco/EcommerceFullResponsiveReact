@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Esto es el directorio</h1>
       <Product/>
+      <h2> Estoy puede ser </h2>
     </div>
   );
 }
